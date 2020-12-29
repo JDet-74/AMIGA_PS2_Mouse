@@ -1,2 +1,3 @@
 # AMIGA_PS2_Mouse
-Use a PS/2 mouse with an Amiga computer. Different Versions are in this repository. 
+<h3>Use a PS/2 mouse with an Amiga computer. <hr />There are different Versions in this repository.</h3>
+<p>The Project files are coming soon.</p>
