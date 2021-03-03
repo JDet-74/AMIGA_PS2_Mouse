@@ -14,7 +14,7 @@ I modified his schematic to this version and added a mini-DIN and USB connector 
 After I milled a prototype PCB I realized, that the HEX-file I got from his webpage do not work. I had no FUSEBIT information and that was the reason.
 I contacted Henryk and he sent me his old PIC16F628A MCU so that I could salvage the program with a TL866 programmer.
 <p>Take a look into the <a href="Schematic_AMIGA_USB_Mouse_V1_DIP.pdf" target="_blank"> DIP-SCHEMATIC</a> or into the 
-    <a href="Schematic_AMIGA_USB_Mouse_V1_SOIC.pdf" target="_blank"> SOIC-SCHEMATIC </a>for further information.</p>
+    <a href="Schematic_AMIGA_USB_Mouse_V1_SOIC.pdf" target="_blank"> SOIC-SCHEMATIC </a> for further information.</p>
 
 # The DIP-18 version ...
 <img src="./pics/PS2_AMIGA_DIP1.jpg" alt="DIP-18 version"> <img src="./pics/PS2_AMIGA_DIP2.jpg" alt="DIP-18 version"> <br>
