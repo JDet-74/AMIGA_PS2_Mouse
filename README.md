@@ -9,12 +9,12 @@ I got this LOGITECH mouse that works well. <br>
 
 # The story began ...
 I bought a used Commodore AMIGA500 ... but ... there was no mouse that I could use. <br> For some reason, there are used AMIGA mice for too much money out there in the market.
-So I searched for a better alternative solution an found the webpage of <strong>Henryk Richter</strong> http://bax.comlab.uni-rostock.de/en/hardware/ps2-amiga-maus/. Special thanks to Henryk. <br>
+So I searched for a better alternative solution an found the webpage of <strong>Henryk Richter</strong> <a href="http://bax.comlab.uni-rostock.de/en/hardware/ps2-amiga-maus/" target="_blank"> Henryks Webpage </a>. Special thanks to Henryk. <br>
 I modified his schematic to this version and added a mini-DIN and USB connector to the PCB. <br>
 After I milled a prototype PCB I realized, that the HEX-file I got from his webpage do not work. I had no FUSEBIT information and that was the reason.
 I contacted Henryk and he sent me his old PIC16F628A MCU so that I could salvage the program with a TL866 programmer.
-<p>Take a look into the <a href="Schematic_AMIGA_USB_Mouse_V1_DIP.pdf"> DIP-SCHEMATIC</a> or into the 
-    <a href="Schematic_AMIGA_USB_Mouse_V1_SOIC.pdf"> SOIC-SCHEMATIC </a>for further information.</p>
+<p>Take a look into the <a href="Schematic_AMIGA_USB_Mouse_V1_DIP.pdf" target="_blank"> DIP-SCHEMATIC</a> or into the 
+    <a href="Schematic_AMIGA_USB_Mouse_V1_SOIC.pdf" target="_blank"> SOIC-SCHEMATIC </a>for further information.</p>
 
 # The DIP-18 version ...
 <img src="./pics/PS2_AMIGA_DIP1.jpg" alt="DIP-18 version"> <img src="./pics/PS2_AMIGA_DIP2.jpg" alt="DIP-18 version"> <br>
